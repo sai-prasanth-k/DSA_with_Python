@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a5fdffb-d5f2-4dea-92e8-c93a880a9441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DSA with Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/PracticeLS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/basic linear search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="7a5fdffb-d5f2-4dea-92e8-c93a880a9441" name="Changes" comment="Basic Linear Search Approaches">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search/BasicBinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/BasicBinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search/BisectBinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/BisectBinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search/IterativeBinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/IterativeBinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Search/PracticeLS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Search/PracticeLS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two Pointer/AdvancedTwoPointer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Two Pointer/AdvancedTwoPointer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two Pointer/BasicTwoPointer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Two Pointer/BasicTwoPointer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AdvancedTwoPointer.executor": "Run",
+    "Python.BasicBinarySearch.executor": "Run",
+    "Python.BasicTwoPointer.executor": "Run",
+    "Python.BisectBinarySearch.executor": "Run",
+    "Python.IterativeBinarySearch.executor": "Run",
+    "Python.PracticeLS.executor": "Run",
     "Python.basic linear search.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -52,7 +56,7 @@
     "settings.editor.selected.configurable": "settings.qodana"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.basic linear search">
+  <component name="RunManager">
     <configuration name="basic linear search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA with Python" />
       <option name="ENV_FILES" value="" />
@@ -119,7 +123,31 @@
       <option name="presentableId" value="Default" />
       <updated>1717053870920</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic Linear Search Approaches">
+      <option name="closed" value="true" />
+      <created>1717126883852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717126883852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Linear Search Approaches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Linear Search Approaches" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
