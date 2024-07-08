@@ -1,6 +1,5 @@
 
 
-
 def basic_binary_search(arr, target, low, high):
     if high >= low:
         mid = (high + low) // 2
